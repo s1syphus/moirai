@@ -1,0 +1,32 @@
+Project Moirai
+Robert Micatka
+May 5th, 2014
+
+Goal:
+Comprehensive backtesting trading platform that allows for strategies to be loaded as python modules
+
+Strategies will include a variety of machine learning algorithms
+
+
+
+
+Required Components (work in progress):
+
+- Backtesting Platform
+	- Populate Database of data of historic Stock, Forex, and Comodities trading information
+	- 
+
+- Strategy Loading Platform
+
+
+Extra Components (in progress):
+
+- Parallelize the training platform for strategies
+	- OpenCL(?)
+	- MPI
+	- Multi-core support
+Roadmap:
+
+
+
+
