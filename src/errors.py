@@ -12,7 +12,7 @@ import traceback
 
 class Errors(object):
     """ class hosts error code constants """
-    # general erros
+    # general errors
     UNKNOWN_ERROR = 1
     
     NETWORK_ERROR = 100
